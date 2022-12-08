@@ -1,4 +1,4 @@
-### Summary: Kullanıcının Girilmiş Verilere Uygun Bir Şekilde Araçları Filtreleyebilmesi 
+### Summary: Kullanıcı Girilmiş Verilere Uygun Bir Şekilde Araçları Filtreleyebilmeli
  
  ![](https://i.hizliresim.com/emvory5.png)
  
@@ -55,7 +55,7 @@
   
   5.4. Kullanıcının yanlışlıkla tıklama ihtimaline veya fikrini değiştirme ihitimaline karşın tik kutusu tıklandıktan sonra işlemin geri alınabileceği bir çarpı işareti oluşturulmalıdır. 
   
-  5.5. Çarpıya tıklandığında lokasyon seçim kutusu gitmeli ve ilk aşamada bulunan Farklı Lokasyon tik kutusu geri gelmelidir. 
+  5.5. Çarpıya tıklandığında lokasyon seçim kutusu kapanmalıdır ve ilk aşamada bulunan Farklı Lokasyon tik kutusu geri gelmelidir. 
   
   ![](https://i.hizliresim.com/8bqxeqs.png)
   
@@ -65,20 +65,28 @@
   
   6.2. Tik kutusu tıklandığında, tik kutusu yanındaki yazı ortadan kalkarak "Promosyon Türü" için bir seçim kutusu ve "Promosyon Kodu" için bir girdi kutusu oluşturulmalıdır.
   
-  6.3. Seçilen "Promosyon Türü"ne göre "Promosyon Kodu" girdi kutusu ismi değişmelidir. 
+  6.3. Seçilen "Promosyon Türü"ne göre belirlenen promosyon tanımları kullanılarak "Promosyon Kodu" girdi kutusu ismi değişmelidir ve bazı durumlarda "Promosyon Kodu" Girdi kutusu olmamalıdır. Başka bir seçim yapıldığında geri gelmelidir.
   
-  Örneğin; Anadolubank ve Denizbank harici bir banka seçimi yapıldığında, Promosyon kodu girdi kutusu "Kart No'nuzu Giriniz" olarak değişmeli.
+  Örneğin; Halkbankası seçimi yapıldığında, Promosyon kodu girdi kutusu "Kartınızın İlk 6 Hanesini Giriniz" olarak değişmeli. Sistemde tanımlı promosyonları ve şartlarını ekte bulunan promosyonTanim.xlsx dosyasında bulabilirsiniz.
   
-  Zubizu seçimi yapıldığında, Promosyon kodu girdi kutusu "Tel No'nuzu Giriniz" olarak değişmeli.
+  6.4. Kullanıcının yanlışlıkla tıklama ihtimaline veya fikrini değiştirme ihitimaline karşın tik kutusu tıklandıktan sonra işlemin geri alınabileceği bir çarpı işareti oluşturulmalıdır.
   
-  Diğer seçimlerden biri yapıldığında "Promosyon Kodunuzu Giriniz" olarak kalmalı. 
-  
-  6.4. "Promosyon Türü" ('Miles & Smiles', 'Sağlık Çalışanı', 'Türk Hava Yolları', 'Pegasus Bolbol', 'Türk Telekom Prime') seçeneklerinden biri seçildiğinde "Promosyon Kodu" Girdi kutusu ortadan kalkmalı. Başka bir seçim yapıldığında geri gelmelidir.
-  
-  6.5. Kullanıcının yanlışlıkla tıklama ihtimaline veya fikrini değiştirme ihitimaline karşın tik kutusu tıklandıktan sonra işlemin geri alınabileceği bir çarpı işareti oluşturulmalıdır. 
-  
-  6.6. Çarpıya tıklandığında Promosyon Türü seçim kutusu ve Promosyon Kodu girdi kutusu gitmeli ve ilk aşamada bulunan promosyon kullanımı tik kutusu geri gelmelidir.
+  6.5. Çarpıya tıklandığında Promosyon Türü seçim kutusu ve Promosyon Kodu girdi kutusu kapanmalıdır ve ilk aşamada bulunan promosyon kullanımı tik kutusu geri gelmelidir.
   
   ![](https://i.hizliresim.com/tw3zy44.png)
   
- 7. Kullanıcıya uygun araçların filtrelenebilmesi için "Uygun Araçları Listele" isimli bir buton oluşturulmalıdır. 
+ 7. Kullanıcıya uygun araçların filtrelenebilmesi için "Uygun Araçları Listele" isimli bir buton oluşturulmalıdır.
+
+ 8. Promosyon Kodunun eksik veya yanlış girilmesi durumunda “Listele” butonu sonrasında ekranda bir uyarı kutusu belirmeli.
+ 
+  ![](https://i.hizliresim.com/t4lzy2a.png)
+  
+  Kullanıcının herhangi bir seçim yapmaması halinde ve “Listele” butonuna tıkladığında varsayılan değerler atanacaktır. 
+
+ 9. Varsayılan Girdiler: Lokasyon için en çok aranan lokasyon, 
+
+	Alış tarihi için kullanıcının “Listeleme” butonuna tıkladığı tarih ve tıkladığı saatten 2 saat sonrası,
+
+	İade tarihi Alış tarihinin 2 gün sonrası,
+
+	Sürücü Yaşı tüm araçların görülebilmesi adına 27+.
