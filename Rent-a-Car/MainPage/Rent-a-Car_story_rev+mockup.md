@@ -6,7 +6,6 @@
  
  Varsayım 1: Kiralama işlemleri Yurtiçi için geçerli olacaktır. 
  
- Varsayım 2: Lokasyon isimleri veritabanında doğrulanmış bir şekilde bulunmaktadır.
  
  1. Kullanıcının aracı hangi lokasyondan alacağını seçebileceği bir seçim kutusu oluşturulmalıdır.
   
@@ -84,7 +83,7 @@
   
  9. Kullanıcının herhangi bir seçim yapmaması halinde ve “Listele” butonuna tıkladığında varsayılan değerler atanacaktır. 
 
-	Varsayılan Girdiler: Lokasyon için en çok aranan lokasyon, 
+	- Varsayılan Girdiler: Lokasyon için en çok aranan lokasyon, 
 
 	Alış tarihi için kullanıcının “Listeleme” butonuna tıkladığı tarih ve tıkladığı saatten 2 saat sonrası,
 
