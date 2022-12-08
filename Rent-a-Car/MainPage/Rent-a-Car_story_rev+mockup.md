@@ -81,9 +81,9 @@
  
   ![](https://i.hizliresim.com/t4lzy2a.png)
   
-  Kullanıcının herhangi bir seçim yapmaması halinde ve “Listele” butonuna tıkladığında varsayılan değerler atanacaktır. 
+ 9. Kullanıcının herhangi bir seçim yapmaması halinde ve “Listele” butonuna tıkladığında varsayılan değerler atanacaktır. 
 
- 9. Varsayılan Girdiler: Lokasyon için en çok aranan lokasyon, 
+	Varsayılan Girdiler: Lokasyon için en çok aranan lokasyon, 
 
 	Alış tarihi için kullanıcının “Listeleme” butonuna tıkladığı tarih ve tıkladığı saatten 2 saat sonrası,
 
