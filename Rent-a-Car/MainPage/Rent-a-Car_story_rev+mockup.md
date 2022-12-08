@@ -3,6 +3,7 @@
  ![](https://i.hizliresim.com/emvory5.png)
  
  Accaptence Criterias:
+ 
  Varsayım 1: Kiralama işlemleri Yurtiçi için geçerli olacaktır. 
  
  Varsayım 2: Lokasyon isimleri veritabanında doğrulanmış bir şekilde bulunmaktadır.
