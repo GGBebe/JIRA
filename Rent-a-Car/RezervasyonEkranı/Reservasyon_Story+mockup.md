@@ -43,7 +43,7 @@ Accaptence Criterias:
 
  3.2. Görüntülenen araçlara tıklandığında seçilen araç belirgin olmalı (highlight, stroke kullanılabilir). 
  
- ![](https://i.hizliresim.com/2pqq66g.png)
+ ![](https://i.hizliresim.com/a7wkw4d.png)
 
  3.3. Kullanıcının aracın özellikler ve fiyat detaylarını görebileceği bir buton listelenen her aracın altına eklenmelidir.
 
@@ -58,8 +58,6 @@ Accaptence Criterias:
  3.5. Kampanyalı olan araçlar, araç çerçeveleri içerisinde belirtilmeli.
 
  3.6. Fiyatlarda indirim olması halinde, eski fiyatların üstü çizilerek indirimli fiyat eski fiyatın yanına yazılmalıdır.
-
- Tasarım aşağıdaki mockup gibi olmalıdır.
 
 4. RC-1 Story'sinde düzenlenmiş olan Filtreleme Ekranı içerisinde girilmiş olan promosyon bilgilerinin gösterileceği bir bilgi ekranı oluşturulmalıdır.
 
