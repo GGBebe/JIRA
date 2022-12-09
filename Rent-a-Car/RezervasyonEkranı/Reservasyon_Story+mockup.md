@@ -5,7 +5,7 @@ Accaptence Criterias:
 
 1. Ekranın en üstünde işlem sırasını ve bulunduğumuz işlemi belirten bir bilgi ekranı oluşturulmalı.
 
- 1.1. İlk işlem, RC-1 story'sinde belirtilmiş "Rezervasyon Bilgisi" olarak yazılmalı.
+ 1.1. İlk işlem için RC-1 story'sinde belirtilmiş bilgilerin kullanıcya gösterilebilmesi için "Kiralama Bilgisi" olarak yazılmalı.
 
  1.2. RC-1'de yapılmış olan "Filtreleme Ekranı"nda seçilmiş olan rezervasyon bilgileri bu alanda belirtilmeli.
 
