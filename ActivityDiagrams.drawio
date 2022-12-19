@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T13:33:05.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YxSAK7VdCK1f5IdC-nt-" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T13:33:13.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2Z8HdmdAzdKIG7taCT-O" version="20.7.4" type="github">
   <diagram id="SmYG5MukR3YPICphpjvJ" name="Page-1">
     <mxGraphModel dx="1434" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,9 +164,6 @@
         </mxCell>
         <mxCell id="-YCtvbmGDNaO1WJL8hnw-27" value="Müşteri Arama AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="20" y="-540" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8r8eFvfFpRtvFcE7tdO_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
