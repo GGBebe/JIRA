@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T06:37:19.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="dZPOF3Ha9xL_c73Gd6j8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T07:22:12.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="lkUmdq_4EljPSALwtsKA" type="github">
   <diagram id="ET5Hn8V05vsVDeW5QQIa" name="Page-1">
     <mxGraphModel dx="1434" dy="2907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RHdUkswQdlGe0OStJKvr-136" value="Müşteri Fatura Hesabına Bağlı Ürün Detaylarını Görüntüleme" style="shape=umlFrame;whiteSpace=wrap;html=1;width=340;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1450" width="830" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-27" value="Müşterinin Demografik Bilgilerinin Eklenmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=35;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1545" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-33" value="Müşterinin Adres Bilgilerinin Eklenmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=35;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="14" y="-1350" width="830" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="RHdUkswQdlGe0OStJKvr-1" value="Sisteme Giriş" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
           <mxGeometry x="10" y="-2180" width="670" height="290" as="geometry" />
         </mxCell>
@@ -98,6 +107,509 @@
             <Array as="points">
               <mxPoint x="90" y="-1650" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-22" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-23" value="Demografik Bilgilerin Girilmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-1490" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-24" value="Müşteri Yaratma" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-1490" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="-1455" as="sourcePoint" />
+            <mxPoint x="550" y="-1455.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-1460" as="sourcePoint" />
+            <mxPoint x="250" y="-1460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-1460" />
+              <mxPoint x="190" y="-1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-28" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1305" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-29" value="Yeni Adres Eklenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-1305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="-1270" as="sourcePoint" />
+            <mxPoint x="550" y="-1270.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-1275" as="sourcePoint" />
+            <mxPoint x="250" y="-1275" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-1275" />
+              <mxPoint x="190" y="-1275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-34" value="Demografik Bilgilerin Girilmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-1305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-35" value="Adres Bilgilerinin Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-1190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-36" value="Adres Bilgilerinin Silinmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-1190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-38" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="1" y="-50" width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="-1230" as="sourcePoint" />
+            <mxPoint x="340" y="-1200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-40" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.1233" y="-28" width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="-1240" as="sourcePoint" />
+            <mxPoint x="580" y="-1180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-41" value="Müşterinin Kontakt Bilgilerinin Eklenmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=35;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1050" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-42" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-995" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-43" value="Kontakt Bilgilerin Girilmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-995" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-44" value="Adres Bilgisi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-995" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-45" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="-960" as="sourcePoint" />
+            <mxPoint x="550" y="-960.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-965" as="sourcePoint" />
+            <mxPoint x="250" y="-965" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-965" />
+              <mxPoint x="190" y="-965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-47" value="Müşterinin Demografik Bilgilerinin Güncellenmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-850" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-48" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-795" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-49" value="Müşteri Demografik Bilgilerinin &lt;br&gt;Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-795" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-50" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-795" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-51" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="-760" as="sourcePoint" />
+            <mxPoint x="550" y="-760.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-765" as="sourcePoint" />
+            <mxPoint x="250" y="-765" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-765" />
+              <mxPoint x="190" y="-765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-53" value="Müşterinin Demografik Bilgilerinin Silinmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-650" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-54" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-595" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-55" value="Müşteri Demografik Bilgilerinin &lt;br&gt;Silinmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-595" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-56" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-595" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-57" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="-560" as="sourcePoint" />
+            <mxPoint x="550" y="-560.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-565" as="sourcePoint" />
+            <mxPoint x="250" y="-565" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-565" />
+              <mxPoint x="190" y="-565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-59" value="Müşteriye Yeni Adres Eklenmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-460" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-60" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-405" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-61" value="Yeni Adres Eklenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-405" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-62" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-405" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-63" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="-370" as="sourcePoint" />
+            <mxPoint x="550" y="-370.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-375" as="sourcePoint" />
+            <mxPoint x="250" y="-375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-375" />
+              <mxPoint x="190" y="-375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-71" value="Müşterinin Adres Bilgilerinin Güncellemesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-270" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-72" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-215" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-73" value="Adres Bilgisinin Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-215" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-74" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-215" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-75" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="-180" as="sourcePoint" />
+            <mxPoint x="550" y="-180.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-185" as="sourcePoint" />
+            <mxPoint x="250" y="-185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-185" />
+              <mxPoint x="190" y="-185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-77" value="Müşterinin Adres Bilgilerinin Silinmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-80" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-78" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-25" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-79" value="Adres Bilgisinin Silinmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-25" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-80" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-25" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-81" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="10" as="sourcePoint" />
+            <mxPoint x="550" y="9.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="5" as="sourcePoint" />
+            <mxPoint x="250" y="5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="5" />
+              <mxPoint x="190" y="5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-83" value="Müşterinin Adresinin Varsayılan Olarak Seçilmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-84" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="165" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-85" value="Varsayılan Adres Seçilmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="165" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-86" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="165" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-87" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="200" as="sourcePoint" />
+            <mxPoint x="550" y="199.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="195" as="sourcePoint" />
+            <mxPoint x="250" y="195" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="195" />
+              <mxPoint x="190" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-89" value="Müşterinin Kontakt Bilgilerinin Güncellemesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="830" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-90" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="355" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-91" value="Kontakt Bilgilerinin Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="355" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-92" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="355" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-93" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="390" as="sourcePoint" />
+            <mxPoint x="550" y="389.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="385" as="sourcePoint" />
+            <mxPoint x="250" y="385" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="385" />
+              <mxPoint x="190" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-95" value="Yeni Müşteri Fatura Hesabı Oluşturulması" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="500" width="830" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-96" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="545" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-97" value="Yeni Fatura Hesabı" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="545" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-98" value="Kayıtlı Müşteri" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="545" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-99" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="580" as="sourcePoint" />
+            <mxPoint x="550" y="579.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="575" as="sourcePoint" />
+            <mxPoint x="250" y="575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="575" />
+              <mxPoint x="190" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-101" value="Yeni Adres Oluşturulması" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-102" value="Kayıtlı Adres seçilmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-103" value="Adres Bilgilerinin Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-104" value="Adres Bilgilerinin Silinmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="760" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-105" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.3725" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="600" as="sourcePoint" />
+            <mxPoint x="575" y="670" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-106" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.5" y="16" width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="730" as="sourcePoint" />
+            <mxPoint x="470" y="750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-107" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.6" y="-4" width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="720" as="sourcePoint" />
+            <mxPoint x="200" y="750" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-108" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.3333" y="-40" width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="620" as="sourcePoint" />
+            <mxPoint x="350" y="650" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-109" value="Yeni Müşteri Fatura Hesabının Güncellenmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="880" width="830" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-110" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="925" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-111" value="Fatura Hesabı Güncelleme" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="925" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-112" value="Kayıtlı Müşteriye ait Fatura Bulunması" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="925" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-113" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="960" as="sourcePoint" />
+            <mxPoint x="550" y="959.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="955" as="sourcePoint" />
+            <mxPoint x="250" y="955" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="955" />
+              <mxPoint x="190" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-115" value="Yeni Adres Oluşturulması" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1040" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-116" value="Kayıtlı Adresin Silinmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1040" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-117" value="Adres Bilgilerinin Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-118" value="Adres Bilgilerinin Silinmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-119" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.3725" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="980" as="sourcePoint" />
+            <mxPoint x="640" y="1050" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-120" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.5" y="16" width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="1110" as="sourcePoint" />
+            <mxPoint x="400" y="1130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-121" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.6" y="-4" width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="1100" as="sourcePoint" />
+            <mxPoint x="130" y="1130" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-122" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="1" y="-28" width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="1000" as="sourcePoint" />
+            <mxPoint x="280" y="1030" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-123" value="Kayıtlı Adresin Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1040" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-124" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="1" y="14" width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="1000" as="sourcePoint" />
+            <mxPoint x="450" y="1050" as="targetPoint" />
+            <mxPoint x="2" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-125" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-126" value="Fatura Hesabını Silme" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-127" value="Kayıtlı Müşteriye ait Fatura Bulunması" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-128" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="1335" as="sourcePoint" />
+            <mxPoint x="550" y="1334.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1330" as="sourcePoint" />
+            <mxPoint x="250" y="1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1330" />
+              <mxPoint x="190" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-130" value="Yeni Müşteri Fatura Hesabının Silinmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=290;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1250" width="830" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-131" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-132" value="İlgili Ürünün Detayını Görüntüleme&lt;br&gt;(Göz İkonu)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-133" value="Kayıtlı Müşteriye ait Fatura Bulunması" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1630" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-134" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry y="40" width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="1580" as="sourcePoint" />
+            <mxPoint x="640" y="1620" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1530" as="sourcePoint" />
+            <mxPoint x="250" y="1530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1530" />
+              <mxPoint x="190" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-137" value="İlgili Fatura Detayının Görüntülenmesi&lt;br&gt;(Ok İkonu)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdUkswQdlGe0OStJKvr-138" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="1535" as="sourcePoint" />
+            <mxPoint x="550" y="1534.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
