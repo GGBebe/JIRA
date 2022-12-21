@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T10:39:25.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="RN5S208L_bHFFEk2gygs" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T11:47:50.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="ENifMWPszkhOKGoLxat-" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
-    <mxGraphModel dx="2206" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,13 +360,13 @@
         <mxCell id="ity8I-JIIYc5jBsns8k_-93" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-94" target="ity8I-JIIYc5jBsns8k_-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-94" value="User kaydet butonuna tıklar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-94" value="User clicks to save button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="870" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-95" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-96" target="ity8I-JIIYc5jBsns8k_-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-96" value="System, adresi kaydeder ve modal ekranı kapatır" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-96" value="System saves the address and closes the modal screen" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1055" y="989" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-98" target="ity8I-JIIYc5jBsns8k_-103">
