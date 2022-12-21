@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T06:30:51.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="Mu-nez6-hpyeTOVBcxRD" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T06:44:21.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="gpu3xORYabqZ9cl9MR4H" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
     <mxGraphModel dx="1509" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,13 +52,13 @@
         <mxCell id="ity8I-JIIYc5jBsns8k_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-15" target="ity8I-JIIYc5jBsns8k_-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-15" value="Müşteri arama sayfası açılır" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-15" value="Customer Search page opens" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="-845" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-17" target="ity8I-JIIYc5jBsns8k_-18">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-17" target="ity8I-JIIYc5jBsns8k_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-17" value="System, kullanıcı adı ve/veya şifre hatalı mesajını verir" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-17" value="System, shows &quot;“Wrong user name or password. Please try again” message" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="410" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="ity8I-JIIYc5jBsns8k_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-23" target="ity8I-JIIYc5jBsns8k_-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-23" value="User Arama Ekranında gerekli bilgileri doldurur" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-23" value="User fills the required areas on the Customer Search Page" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-28" target="ity8I-JIIYc5jBsns8k_-30">
@@ -100,25 +100,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-28" value="Gerekli alanlar &lt;br&gt;dolduruldu mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-28" value="Are required &lt;br&gt;areas filled?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="260" y="-350" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-30" target="ity8I-JIIYc5jBsns8k_-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-30" value="Arama butonu aktif olur" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-30" value="Search button will be active" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-32" target="ity8I-JIIYc5jBsns8k_-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-32" value="User arama butonuna tıklar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-32" value="User will click to the search button&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-34" target="ity8I-JIIYc5jBsns8k_-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-34" value="System bulunan sonuçları gösterir" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-34" value="System shows the results of the search" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="870" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-36">
@@ -126,7 +126,7 @@
             <mxPoint x="1080" y="-450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-36" value="User ilgili müşterileri görüntülüyebilir ve &quot;Customer Info&quot;ya tıklayabilir" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-36" value="User can see related results and click to &quot;Customer Info&quot; if required" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="860" y="-485" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-41" target="ity8I-JIIYc5jBsns8k_-34">
@@ -145,10 +145,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-41" value="Sonuç bulundu mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-41" value="Are there any results found?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="660" y="-350" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-42" value="System, kullanıcı bulunamadı, yeni bir kullanıcı eklemek ister misiniz? mesajını gösterir." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;glass=0;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-842" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-42" target="ity8I-JIIYc5jBsns8k_-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ity8I-JIIYc5jBsns8k_-42" value="System shows “No customer found! Would you like to create the customer?” message" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;glass=0;" vertex="1" parent="1">
           <mxGeometry x="652.5" y="-170" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-43" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -162,10 +165,10 @@
         <mxCell id="ity8I-JIIYc5jBsns8k_-45" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1080" y="-465" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-46" value="Müşteri Arama AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-46" value="Customer Search AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="-540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-47" value="System" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-47" value="&amp;nbsp; &amp;nbsp; System" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="220" width="1320" height="330" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-48" value="User" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -174,7 +177,7 @@
         <mxCell id="ity8I-JIIYc5jBsns8k_-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-50" target="ity8I-JIIYc5jBsns8k_-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-50" value="User Demografik Bilgi Ekranında zorunlu bilgileri doldurur" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-50" value="User fills the must areas on Demografic Info Page" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="495" y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-55" target="ity8I-JIIYc5jBsns8k_-57">
@@ -198,22 +201,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-55" value="Zorunlu alanlar &lt;br&gt;dolduruldu mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-55" value="Are must areas filled?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-57" target="ity8I-JIIYc5jBsns8k_-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-57" value="İleri butonu aktif olur" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-57" value="Next button will be active" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="715" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-59" target="ity8I-JIIYc5jBsns8k_-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-59" value="User ileri butonuna tıklar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-59" value="User clicks to next button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="715" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-60" value="System Adres Bilgi sayfasını açar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-60" value="System opens Address Info page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1095" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1">
@@ -238,7 +241,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-66" value="Kimlik numarası &lt;br&gt;tekil mi?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-66" value="Is Nationality ID &lt;br&gt;unique?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="885" y="250" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-68" target="ity8I-JIIYc5jBsns8k_-50">
@@ -249,7 +252,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-68" value="System, bu kimlik numarasına kayıtlı bir müşteri olduğuna dair hata mesajı olarak gösterir." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;glass=0;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-68" value="System shows &quot;A customer is already exist with this Nationality ID&quot; message" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;glass=0;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="430" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-69" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -267,7 +270,7 @@
         <mxCell id="ity8I-JIIYc5jBsns8k_-71" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1295" y="304" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-72" value="Müşteri Demografik Bilgilerinin Girilmesi AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-72" value="Demografic Info Entrance of the Customer AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="-30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-73" value="System" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -1706,7 +1709,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-415" value="System Adres Bilgi ekranını açar" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-415" value="System opens Address Info Page" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-416" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-420" target="ity8I-JIIYc5jBsns8k_-422">
@@ -1730,7 +1733,7 @@
             <mxPoint x="-33" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-420" value="User, işleme &lt;br&gt;devam etmek &lt;br&gt;istiyor mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-420" value="Does user want to continue this process?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="20" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-421" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-422" target="ity8I-JIIYc5jBsns8k_-424">
@@ -1741,7 +1744,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-422" value="User iptal butonuna basar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-422" value="User clicks to cancel button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-423" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="ity8I-JIIYc5jBsns8k_-424" target="ity8I-JIIYc5jBsns8k_-71">
@@ -1752,7 +1755,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-424" value="System Müşteri Arama sayfasına geri döner" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-424" value="System goes back to Customer Search page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="55" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-425" value="System" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
