@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T14:46:06.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yxeXEMyiYZ4BAXvt94kN" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T14:27:10.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="48O9TnEjOa1YgaMPpWTw" version="20.7.4" type="github">
   <diagram id="SmYG5MukR3YPICphpjvJ" name="Page-1">
-    <mxGraphModel dx="1366" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2944,6 +2944,14 @@
         <mxCell id="ggnvbdpZLtGHPIx7DPAu-393" value="Sistem, fatura hesabı yaratma sayfasını açar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="254" y="6790" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="MXVArh-bOWx9lQgPEuOU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ggnvbdpZLtGHPIx7DPAu-394" target="ggnvbdpZLtGHPIx7DPAu-363">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="7060" />
+              <mxPoint x="2169" y="7060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ggnvbdpZLtGHPIx7DPAu-394" value="Sistem müşteri hesapları sayfasını açar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="554" y="6787.5" width="150" height="75" as="geometry" />
         </mxCell>
@@ -3336,7 +3344,7 @@
         <mxCell id="ggnvbdpZLtGHPIx7DPAu-506" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="729" y="9015" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7G3FlWaR4KCkorX2gRDn-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Ürün ve/veya Kampanyaların Sepete Eklenmesi&lt;/span&gt;&amp;nbsp;&lt;/font&gt;AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7G3FlWaR4KCkorX2gRDn-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Ürün ve/veya Kampanyaların Sepete Eklenmesi&lt;/span&gt;&amp;nbsp;&lt;/font&gt;AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="15" y="9170" width="346" height="30" as="geometry" />
         </mxCell>
       </root>
