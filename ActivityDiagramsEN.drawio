@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T07:31:08.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ra7i7oUhKFHrrFCfAVuN" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T07:35:08.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="B2EUyGmxR07CnYdcGLTF" version="20.7.4" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
-    <mxGraphModel dx="1434" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="3010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2884,7 +2884,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-330" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-331" target="o9h5J3CHoq-6uBr2ZFFi-359">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-331" value="System, ürün tekliflerini tabloda listeler" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-331" value="System lists product offers in the table" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="805" y="9965" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-332" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-333" target="o9h5J3CHoq-6uBr2ZFFi-351">
@@ -2976,7 +2976,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-353" value="System, Müşteri Hesapları ekranına geri döner" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-353" value="System returns to the Customer Accounts page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="229" y="10070" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-354" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-355" target="o9h5J3CHoq-6uBr2ZFFi-357">
@@ -2987,7 +2987,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-355" value="System, ilgili kutuyu açarak katalogları listeler" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-355" value="System lists the catalogs by opening the corresponding box" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="9960" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-356" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-357" target="o9h5J3CHoq-6uBr2ZFFi-331">
@@ -3005,7 +3005,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-360" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-361" target="o9h5J3CHoq-6uBr2ZFFi-366">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-361" value="System, seçili ürünü belirgin hale &lt;br&gt;getirir" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-361" value="System highlights the selected offer" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="990" y="9965" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-362" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-366" target="o9h5J3CHoq-6uBr2ZFFi-368">
@@ -3050,7 +3050,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-371" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-372" target="o9h5J3CHoq-6uBr2ZFFi-417">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-372" value="System, seçili ürünü sepete ekler ve toplam fiyat tutarı ile listeler" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-372" value="System adds the selected offer to the basket and lists it with the total amount" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1462.5" y="9960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-373" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-377" target="o9h5J3CHoq-6uBr2ZFFi-382">
@@ -3124,7 +3124,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-390" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-391" target="o9h5J3CHoq-6uBr2ZFFi-392">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-391" value="System, Ürün Konfigürasyon sayfasını açar" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-391" value="System opens the Product Configuration page" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2165" y="9960" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-392" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -3150,7 +3150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-396" value="System, kampanya seçim sayfasını gösterir" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-396" value="System displays the campaign selection page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="792" y="10080" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-397" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-398" target="o9h5J3CHoq-6uBr2ZFFi-400">
@@ -3173,7 +3173,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-400" value="System, ilgili kutuyu açarak kampanyaları listeler" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-400" value="System lists the campaigns by opening the corresponding box" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="980" y="10080" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-401" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-402" target="o9h5J3CHoq-6uBr2ZFFi-404">
@@ -3196,7 +3196,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-404" value="System, ürün tekliflerini, kampanya id&#39;leri ile tabloda listeler" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-404" value="System lists the product offers in the table with their campaign ids." style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1283" y="9960" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-405" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1">
@@ -3254,7 +3254,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-417" value="Sepette birden fazla &lt;br&gt;ürün var mı?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-417" value="Are there more than &lt;br&gt;one item in the basket?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1442.5" y="10059.5" width="160" height="157.5" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-418" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1">
@@ -3267,7 +3267,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-419" value="İlerle ve temizle butonu aktif hale gelir" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-419" value="Next and clear button becomes active" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1462.5" y="10300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-420" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Adding Products and/or Campaigns to the Basket&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AD&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
