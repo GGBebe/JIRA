@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T15:22:36.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9l4SHtq1OZimrjXTOxjw" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T06:50:24.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3XkxsVgbVwGemeXW6oaU" version="20.7.4" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
-    <mxGraphModel dx="2049" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2121,16 +2121,16 @@
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-303" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-304" target="awzyZMZFv4Vx0vO5Pr68-306" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-304" value="User Sipariş Tamamlama ekranını açar" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-304" value="User opens Submit page" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="121" y="12136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-305" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-306" target="awzyZMZFv4Vx0vO5Pr68-329" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-306" value="System sipariş özetini ve sepet tutarını listeler" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-306" value="System lists order summary and basket total amount" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="121" y="12460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-307" value="System onay modal ekranını açar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-307" value="System opens the confirmation modal screen" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="668.5" y="12457.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-308" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -2142,7 +2142,7 @@
             <mxPoint x="1421" y="12470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-310" value="User siparişi tamamla butonuna basar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-310" value="Usir clicks to the submit button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="541" y="12136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-311" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-310" target="awzyZMZFv4Vx0vO5Pr68-307" edge="1">
@@ -2171,13 +2171,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-317" value="User siparişi onaylamak istiyor mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-317" value="Does the user want to confirm the order?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="891" y="12130" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-318" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-319" target="awzyZMZFv4Vx0vO5Pr68-322" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-319" value="User onayla butonuna basar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-319" value="User clicks to the agree button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1121" y="12136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-320" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-321" target="awzyZMZFv4Vx0vO5Pr68-324" edge="1">
@@ -2188,21 +2188,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-321" value="User iptal butonuna basar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-321" value="User clicks to the cancel button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1121" y="12220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-322" value="System, modal ekranı kapatır ve siparişi orta katmana geçirir&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-322" value="System closes the modal screen and passes the order to the middle layer" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1281" y="12457.5" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-323" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-324" target="awzyZMZFv4Vx0vO5Pr68-307" edge="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-323" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-324" target="awzyZMZFv4Vx0vO5Pr68-306" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="911" y="12550" />
-              <mxPoint x="601" y="12550" />
+              <mxPoint x="1061" y="12550" />
+              <mxPoint x="181" y="12550" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-324" value="System, modal ekranı kapatır" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-324" value="System closes the modal screen" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1001" y="12460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-325" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-329" target="awzyZMZFv4Vx0vO5Pr68-310" edge="1">
@@ -2210,7 +2210,7 @@
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-326" value="&lt;b&gt;Yes&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="awzyZMZFv4Vx0vO5Pr68-325" vertex="1" connectable="0">
           <mxGeometry x="-0.0739" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-327" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-329" target="awzyZMZFv4Vx0vO5Pr68-331" edge="1">
@@ -2218,16 +2218,16 @@
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-328" value="&lt;b&gt;No&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="awzyZMZFv4Vx0vO5Pr68-327" vertex="1" connectable="0">
           <mxGeometry x="-0.4107" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-329" value="User işleme &lt;br&gt;devam etmek &lt;br&gt;istiyor mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-329" value="Does user want to continue this process?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="291" y="12131" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-330" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-331" target="awzyZMZFv4Vx0vO5Pr68-333" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-331" value="User geri butonuna basar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-331" value="User clicks to the previous button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="541" y="12250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-332" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-333" target="awzyZMZFv4Vx0vO5Pr68-308" edge="1">
@@ -2238,7 +2238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-333" value="System, Ürün Konfigürasyonu sayfasına geri döner" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-333" value="System opens Product Configuration page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="461" y="12457.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-334" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-335" target="awzyZMZFv4Vx0vO5Pr68-291" edge="1">
