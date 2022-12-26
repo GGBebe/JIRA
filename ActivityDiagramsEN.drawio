@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T13:43:20.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oFrfmWkH6HAfvHoFKj4w" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T13:54:16.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="24lNsrb65AENpAs2udLl" version="20.7.4" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
-    <mxGraphModel dx="1509" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4780" dy="3457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3124,13 +3124,13 @@
             <mxPoint x="329" y="5500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-76" value="User clicks the pen on the customer contact information page" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-76" value="User clicks the pen icon on the Contact Medium page" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="259" y="5365" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z5zp1aG1m_IkPNdGQyM1-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="Z5zp1aG1m_IkPNdGQyM1-78" target="Z5zp1aG1m_IkPNdGQyM1-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-78" value="System, opens to customer contact information update page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-78" value="System, opens the customer contact information update page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="259" y="5670" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z5zp1aG1m_IkPNdGQyM1-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=open;endFill=0;" edge="1" parent="1" source="Z5zp1aG1m_IkPNdGQyM1-80" target="Z5zp1aG1m_IkPNdGQyM1-107">
@@ -3164,7 +3164,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-86" value="Is the information &lt;br&gt;entered correctly?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-86" value="Is the information &lt;br&gt;entered in the correct format?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="840" y="5640" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z5zp1aG1m_IkPNdGQyM1-87" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -3191,7 +3191,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-93" value="&lt;font style=&quot;&quot;&gt;Have the mail &lt;br&gt;and/or phone number fields been filled?&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-93" value="&lt;font style=&quot;&quot;&gt;Are the mail and/or phone number fields &lt;br&gt;filled in?&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="839" y="5820" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z5zp1aG1m_IkPNdGQyM1-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=open;endFill=0;" edge="1" parent="1" source="Z5zp1aG1m_IkPNdGQyM1-98" target="Z5zp1aG1m_IkPNdGQyM1-102">
@@ -3210,13 +3210,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-98" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Is there another &lt;br&gt;match on the same ID or phone number?&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-98" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Is&amp;nbsp;ID or phone &lt;br&gt;number unique?&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="839" y="6000" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z5zp1aG1m_IkPNdGQyM1-99" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;endArrow=open;endFill=0;" edge="1" parent="1" source="Z5zp1aG1m_IkPNdGQyM1-100" target="Z5zp1aG1m_IkPNdGQyM1-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-100" value="System displays error message to user that mail and phone fields cannot be left blank" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Z5zp1aG1m_IkPNdGQyM1-100" value="System displays error message to user that mail and phone fields cannot be empty" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="609" y="5852.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Z5zp1aG1m_IkPNdGQyM1-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=11;endArrow=open;endFill=0;" edge="1" parent="1" source="Z5zp1aG1m_IkPNdGQyM1-102" target="Z5zp1aG1m_IkPNdGQyM1-78">
