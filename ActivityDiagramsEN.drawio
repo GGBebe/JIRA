@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T07:35:08.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="B2EUyGmxR07CnYdcGLTF" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T07:40:03.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="cEwREECCX_4zGN4SqPFO" version="20.7.4" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
-    <mxGraphModel dx="3585" dy="3010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3187" dy="2798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2831,7 +2831,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-314" value="System" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="24" y="9000" width="800" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-315" value="Müşteri Fatura Hesabına Bağlı Ürün Detaylarını Görüntüleme AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-315" value="Viewing Product Details of Customer Billing Accounts AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="24" y="8840" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-316" value="User" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -2840,7 +2840,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-317" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-318" target="o9h5J3CHoq-6uBr2ZFFi-322">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-318" value="User fatura hesap ayrıntılarını görüntüleyebilmek için aşağı ok ikonuna tıklar" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-318" value="User clicks down arrow icon to view billing account details" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="264" y="8895" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-319" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -2854,16 +2854,16 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-321" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-322" target="o9h5J3CHoq-6uBr2ZFFi-324">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-322" value="System ilgili fatura hesabına ait ürünleri tablo içinde gösterir." style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-322" value="The system shows the products belonging to the related billing account in the table" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="264" y="9055" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-323" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-324" target="o9h5J3CHoq-6uBr2ZFFi-325">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-324" value="User ürünlerin listelendiği tablodan göz ikonuna tıklar" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-324" value="User clicks the eye icon from the table where the products are listed" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="499" y="8895" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-325" value="System ilgili ürün detaylarını modal ekranında açar" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-325" value="The system opens the relevant product details on the modal screen" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="499" y="9055" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-326" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1">
