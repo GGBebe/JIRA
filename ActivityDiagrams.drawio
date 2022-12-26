@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T12:18:09.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fZJcEdqfy2ltTcjWRH7n" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T13:54:22.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="MxVuiEAzX5D75hWEdBdg" version="20.7.4" type="github">
   <diagram id="SmYG5MukR3YPICphpjvJ" name="Page-1">
-    <mxGraphModel dx="1912" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2202,7 +2202,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhvEtrFAHof2nKqxp8WO-564" value="Bilgiler doğru biçimde girildi mi?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="yhvEtrFAHof2nKqxp8WO-564" value="Bilgiler doğru formatta girildi mi?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="834" y="5640" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="yhvEtrFAHof2nKqxp8WO-565" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -2605,11 +2605,11 @@
         <mxCell id="yhvEtrFAHof2nKqxp8WO-678" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=open;endFill=0;" parent="1" source="yhvEtrFAHof2nKqxp8WO-679" target="yhvEtrFAHof2nKqxp8WO-680" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhvEtrFAHof2nKqxp8WO-679" value="Kullanıcı fatura hesabını oluşturmak için oluştur butonuna tıklar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yhvEtrFAHof2nKqxp8WO-679" value="Kullanıcı fatura hesabını kaydetmek için oluştur butonuna tıklar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2584" y="7330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yhvEtrFAHof2nKqxp8WO-680" value="Sistem yeni bir fatura hesabı oluşturur" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2764" y="7700" width="120" height="60" as="geometry" />
+        <mxCell id="yhvEtrFAHof2nKqxp8WO-680" value="Sistem fatura hesabını kaydeder ve Müşteri Fatura Hesapları sayfasını açar" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2740" y="7697.5" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yhvEtrFAHof2nKqxp8WO-681" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=open;endFill=0;" parent="1" source="yhvEtrFAHof2nKqxp8WO-682" target="yhvEtrFAHof2nKqxp8WO-651" edge="1">
           <mxGeometry relative="1" as="geometry" />
