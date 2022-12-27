@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T14:07:00.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TzMFzVhLOcGHld-x8PVc" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T14:10:01.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Nmy4y1fNPeWtVMaq8oHN" version="20.7.4" type="github">
   <diagram id="SmYG5MukR3YPICphpjvJ" name="Page-1">
-    <mxGraphModel dx="1593" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="531" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1544,12 +1544,12 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhvEtrFAHof2nKqxp8WO-374" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=open;endFill=0;" parent="1" source="yhvEtrFAHof2nKqxp8WO-376" target="yhvEtrFAHof2nKqxp8WO-378" edge="1">
+        <mxCell id="yhvEtrFAHof2nKqxp8WO-374" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;" parent="1" source="yhvEtrFAHof2nKqxp8WO-376" target="yhvEtrFAHof2nKqxp8WO-378" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhvEtrFAHof2nKqxp8WO-375" value="&lt;b&gt;Hayır&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yhvEtrFAHof2nKqxp8WO-374" vertex="1" connectable="0">
           <mxGeometry x="-0.4107" y="-3" relative="1" as="geometry">
-            <mxPoint x="-8" y="-3" as="offset" />
+            <mxPoint x="-24" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yhvEtrFAHof2nKqxp8WO-376" value="Kullanıcı işleme &lt;br&gt;devam etmek &lt;br&gt;istiyor mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
