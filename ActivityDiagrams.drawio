@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T13:40:06.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8FQxcm7sZhEzWj11Gnhq" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T14:03:03.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yFp31gTKyLD6-u47ch0e" version="20.7.4" type="github">
   <diagram id="SmYG5MukR3YPICphpjvJ" name="Page-1">
-    <mxGraphModel dx="1509" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="2373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1304,6 +1304,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SR49zyleyDjS2P_NY01e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.314;entryY=0.843;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="yhvEtrFAHof2nKqxp8WO-316" target="yhvEtrFAHof2nKqxp8WO-276">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="11180" />
+              <mxPoint x="590" y="10698" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yhvEtrFAHof2nKqxp8WO-316" value="Sistem, seçilen adresin varsayılan adres olduğunu ve bu sebeple silinemeyeceğini belirten hata mesajını gösterir" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1919" y="11150" width="250" height="60" as="geometry" />
         </mxCell>
@@ -1312,12 +1320,12 @@
             <mxPoint x="1994" y="10740.066666666666" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhvEtrFAHof2nKqxp8WO-318" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="yhvEtrFAHof2nKqxp8WO-319" target="yhvEtrFAHof2nKqxp8WO-276" edge="1">
+        <mxCell id="yhvEtrFAHof2nKqxp8WO-318" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=0.657;entryDx=0;entryDy=0;endArrow=open;endFill=0;entryPerimeter=0;" parent="1" source="yhvEtrFAHof2nKqxp8WO-319" target="yhvEtrFAHof2nKqxp8WO-276" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2229" y="11240" />
-              <mxPoint x="584" y="11240" />
-              <mxPoint x="584" y="10685" />
+              <mxPoint x="570" y="11240" />
+              <mxPoint x="570" y="10672" />
             </Array>
           </mxGeometry>
         </mxCell>
