@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T13:51:05.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DKmwWkHpv7170dBZ0NKB" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T14:01:15.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iId_3gAuGazDaG2NKKob" version="20.7.4" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
-    <mxGraphModel dx="1247" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1274,7 +1274,7 @@
             <mxPoint x="1420" y="11860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-310" value="Usir clicks to the submit button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-310" value="Usir clicks to the &quot;Submit&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="11526" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-311" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-310" target="awzyZMZFv4Vx0vO5Pr68-307" edge="1">
@@ -1292,7 +1292,7 @@
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-314" value="&lt;b&gt;Yes&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="awzyZMZFv4Vx0vO5Pr68-313" vertex="1" connectable="0">
           <mxGeometry x="0.1005" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-315" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.785;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-317" target="awzyZMZFv4Vx0vO5Pr68-321" edge="1">
@@ -1309,7 +1309,7 @@
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-318" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-319" target="awzyZMZFv4Vx0vO5Pr68-322" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-319" value="User clicks to the agree button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-319" value="User clicks to the &quot;Agree&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1120" y="11526" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-320" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-321" target="awzyZMZFv4Vx0vO5Pr68-324" edge="1">
@@ -1320,7 +1320,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-321" value="User clicks to the cancel button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-321" value="User clicks to the &quot;Cancel&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1120" y="11610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-322" value="System closes the modal screen and passes the order to the middle layer" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -1359,7 +1359,7 @@
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-330" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-331" target="awzyZMZFv4Vx0vO5Pr68-333" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-331" value="User clicks to the previous button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-331" value="User clicks to the &quot;Previous&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="11640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-332" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-333" target="awzyZMZFv4Vx0vO5Pr68-308" edge="1">
@@ -1576,13 +1576,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-22" value="User clicks to the edit button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-22" value="User clicks to the &quot;Edit&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1459" y="10830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-24" target="o9h5J3CHoq-6uBr2ZFFi-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-24" value="User clicks to the add new address button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-24" value="User clicks to the &quot;Add New Address&quot; button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="824" y="10680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-26" target="o9h5J3CHoq-6uBr2ZFFi-28" edge="1">
@@ -1633,13 +1633,13 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-34" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-35" target="o9h5J3CHoq-6uBr2ZFFi-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-35" value="Save button will be active" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-35" value="&quot;Save&quot; button becomes active" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1274" y="11010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-36" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-37" target="o9h5J3CHoq-6uBr2ZFFi-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-37" value="User clicks to the save button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-37" value="User clicks to the &quot;Save&quot;&amp;nbsp;button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1274" y="10680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-38" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-39" target="o9h5J3CHoq-6uBr2ZFFi-41" edge="1">
@@ -1685,6 +1685,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DDBCcTheMZ2ltzlNUEpO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.323;entryY=0.814;entryDx=0;entryDy=0;endArrow=open;endFill=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-47" target="o9h5J3CHoq-6uBr2ZFFi-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="11240" />
+              <mxPoint x="590" y="10754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-47" value="System shows an error message stating that the selected address is the default address and therefore cannot be deleted" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1919" y="11210" width="250" height="60" as="geometry" />
         </mxCell>
@@ -1693,12 +1701,12 @@
             <mxPoint x="1994" y="10800.066666666666" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-50" target="o9h5J3CHoq-6uBr2ZFFi-15" edge="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.162;entryY=0.668;entryDx=0;entryDy=0;endArrow=open;endFill=0;entryPerimeter=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-50" target="o9h5J3CHoq-6uBr2ZFFi-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2229" y="11300" />
-              <mxPoint x="584" y="11300" />
-              <mxPoint x="584" y="10745" />
+              <mxPoint x="570" y="11300" />
+              <mxPoint x="570" y="10734" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1708,7 +1716,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-52" target="o9h5J3CHoq-6uBr2ZFFi-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-52" value="User clicks to next button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-52" value="User clicks to &quot;Next&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2366.3099999999995" y="10690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-66" target="o9h5J3CHoq-6uBr2ZFFi-57" edge="1">
@@ -1743,13 +1751,13 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-61" target="o9h5J3CHoq-6uBr2ZFFi-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-61" value="Address deletion will be active" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-61" value="Address &quot;Delete&quot; button becomes active" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1844" y="11120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-62" value="Address deletion will be inactive" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-62" value="Address &quot;Delete&quot; button becomes inactive" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1654" y="11120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-63" value="User clicks to the delete button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-63" value="User clicks to the &quot;Delete&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1874" y="10770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-66" target="o9h5J3CHoq-6uBr2ZFFi-74" edge="1">
@@ -1844,7 +1852,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-117" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-118" target="o9h5J3CHoq-6uBr2ZFFi-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-118" value="User clicks to the previous button&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-118" value="User clicks to the &quot;Previous&quot; button&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="94" y="10771.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-119" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-120" target="o9h5J3CHoq-6uBr2ZFFi-68" edge="1">
@@ -2608,7 +2616,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-367" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-368" target="o9h5J3CHoq-6uBr2ZFFi-372" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-368" value="User clicks to add to basket button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-368" value="User clicks to &quot;Add to Basket&quot; button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1457.5" y="9585" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-369" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-417" target="o9h5J3CHoq-6uBr2ZFFi-377" edge="1">
@@ -2690,7 +2698,7 @@
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-388" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-389" target="o9h5J3CHoq-6uBr2ZFFi-391" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-389" value="User clicks to next button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-389" value="User clicks to &quot;Next&quot; button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2165" y="9433.75" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-390" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-391" target="o9h5J3CHoq-6uBr2ZFFi-392" edge="1">
@@ -2780,7 +2788,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-406" value="User clicks to clear button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-406" value="User clicks to &quot;Clear&quot;&amp;nbsp;button" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1921" y="9798.75" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-407" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-408" target="o9h5J3CHoq-6uBr2ZFFi-414" edge="1">
@@ -2815,7 +2823,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-414" value="Next and clear button becomes inactive" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-414" value="&quot;Next&quot; and &quot;Clear&quot;&amp;nbsp;button becomes inactive" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1925" y="10065" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-415" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="o9h5J3CHoq-6uBr2ZFFi-417" target="o9h5J3CHoq-6uBr2ZFFi-419" edge="1">
@@ -2839,7 +2847,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-419" value="Next and clear button becomes active" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="o9h5J3CHoq-6uBr2ZFFi-419" value="&quot;Next&quot; and &quot;Clear&quot; button becomes active" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1462.5" y="10300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9h5J3CHoq-6uBr2ZFFi-420" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Adding Products and/or Campaigns to the Basket&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AD&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
