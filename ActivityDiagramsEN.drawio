@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T13:27:34.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iq1lut01gCBYkTFLn83E" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T13:40:10.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="q4EYr_t8veRoFfGW1Bqx" version="20.7.4" type="github">
   <diagram id="t61sBA5dFTruSkZOPS48" name="Page-1">
     <mxGraphModel dx="1195" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -697,7 +697,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-442" value="System shows &quot;Your input must be valid.&quot; &lt;br&gt;error message" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-442" value="System shows &quot;Your input must be valid.&quot; &lt;br&gt;message" style="html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="1776" width="230" height="74" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-642" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ity8I-JIIYc5jBsns8k_-461" target="ity8I-JIIYc5jBsns8k_-445" edge="1">
@@ -816,7 +816,7 @@
         <mxCell id="ity8I-JIIYc5jBsns8k_-597" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="ity8I-JIIYc5jBsns8k_-598" target="ity8I-JIIYc5jBsns8k_-605" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ity8I-JIIYc5jBsns8k_-598" value="User güncellemek istediği alanları düzenler" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ity8I-JIIYc5jBsns8k_-598" value="User edits the desired fields" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="485" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ity8I-JIIYc5jBsns8k_-599" value="System updates the user" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -1393,7 +1393,7 @@
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-410" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-411" target="awzyZMZFv4Vx0vO5Pr68-413" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="awzyZMZFv4Vx0vO5Pr68-411" value="User clicks to the delete button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="awzyZMZFv4Vx0vO5Pr68-411" value="User clicks to the &quot;Delete&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="715" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-412" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="awzyZMZFv4Vx0vO5Pr68-413" target="awzyZMZFv4Vx0vO5Pr68-425" edge="1">
@@ -1483,6 +1483,14 @@
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-432" value="Does the user want to delete the customer?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="490" y="2470" width="135" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DDBCcTheMZ2ltzlNUEpO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="awzyZMZFv4Vx0vO5Pr68-433" target="awzyZMZFv4Vx0vO5Pr68-417">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="2960" />
+              <mxPoint x="1100" y="2960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="awzyZMZFv4Vx0vO5Pr68-433" value="System opens Customer Info page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;fillStyle=auto;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="495" y="2880" width="120" height="60" as="geometry" />
