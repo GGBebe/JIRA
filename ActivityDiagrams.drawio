@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T14:03:03.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yFp31gTKyLD6-u47ch0e" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T14:07:00.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TzMFzVhLOcGHld-x8PVc" version="20.7.4" type="github">
   <diagram id="SmYG5MukR3YPICphpjvJ" name="Page-1">
-    <mxGraphModel dx="2390" dy="2373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1501,6 +1501,11 @@
         </mxCell>
         <mxCell id="yhvEtrFAHof2nKqxp8WO-363" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;elbow=vertical;" parent="1" source="yhvEtrFAHof2nKqxp8WO-364" target="yhvEtrFAHof2nKqxp8WO-368" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SR49zyleyDjS2P_NY01e-16" value="&lt;b&gt;Hayır&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yhvEtrFAHof2nKqxp8WO-363">
+          <mxGeometry x="0.2931" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yhvEtrFAHof2nKqxp8WO-364" value="Kullanıcı siparişi onaylamak istiyor mu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=0;fillStyle=auto;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="963.5" y="11426" width="140" height="140" as="geometry" />
