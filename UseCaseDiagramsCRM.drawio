@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T12:36:09.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HhtuUmacVYRMcAZRaKAt" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T13:06:34.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8o7_NTTBTrFXnCu5GrMj" version="20.7.4" type="github">
   <diagram id="ET5Hn8V05vsVDeW5QQIa" name="Page-1">
-    <mxGraphModel dx="1912" dy="3143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="3288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="10" y="-1545" width="830" height="165" as="geometry" />
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-6" value="Müşterinin Adres Bilgilerinin Eklenmesi" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=35;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="14" y="-1360" width="830" height="280" as="geometry" />
+          <mxGeometry x="11" y="-1360" width="830" height="280" as="geometry" />
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-7" value="Sisteme Giriş" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="10" y="-2170" width="830" height="290" as="geometry" />
@@ -124,47 +124,47 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-28" value="Kullanıcı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-1305" width="30" height="60" as="geometry" />
+          <mxGeometry x="67" y="-1305" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-29" value="Yeni Adres Eklenmesi" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="275" y="-1305" width="140" height="70" as="geometry" />
+          <mxGeometry x="272" y="-1305" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="450" y="-1270" as="sourcePoint" />
-            <mxPoint x="550" y="-1270.5" as="targetPoint" />
+            <mxPoint x="447" y="-1270" as="sourcePoint" />
+            <mxPoint x="547" y="-1270.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="-1275" as="sourcePoint" />
-            <mxPoint x="250" y="-1275" as="targetPoint" />
+            <mxPoint x="147" y="-1275" as="sourcePoint" />
+            <mxPoint x="247" y="-1275" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="-1275" />
-              <mxPoint x="190" y="-1275" />
+              <mxPoint x="187" y="-1275" />
+              <mxPoint x="187" y="-1275" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-32" value="Demografik Bilgilerin Girilmesi" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-1305" width="140" height="70" as="geometry" />
+          <mxGeometry x="587" y="-1305" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-33" value="Adres Bilgilerinin Güncellenmesi" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="275" y="-1190" width="140" height="70" as="geometry" />
+          <mxGeometry x="272" y="-1190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-34" value="Adres Bilgilerinin Silinmesi" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-1190" width="140" height="70" as="geometry" />
+          <mxGeometry x="587" y="-1190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-35" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="1" y="-50" width="160" relative="1" as="geometry">
-            <mxPoint x="340" y="-1230" as="sourcePoint" />
-            <mxPoint x="340" y="-1200" as="targetPoint" />
+            <mxPoint x="337" y="-1230" as="sourcePoint" />
+            <mxPoint x="337" y="-1200" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hVDXQ7sKf-R2nnat_nsk-36" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.1233" y="-28" width="160" relative="1" as="geometry">
-            <mxPoint x="420" y="-1240" as="sourcePoint" />
-            <mxPoint x="580" y="-1180" as="targetPoint" />
+            <mxPoint x="417" y="-1240" as="sourcePoint" />
+            <mxPoint x="577" y="-1180" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
