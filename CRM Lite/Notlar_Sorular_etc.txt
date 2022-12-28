@@ -1,0 +1,132 @@
+Gerekli exceller
+musteriDetay.xlsx
+searchDetay.xlsx
+demografikDetay.xlsx bir daha var
+adresDetay.xlsx
+kontaktDetay.xlsx
+accountDetay.xlsx
+faturaDetay.xlsx
+faturaUrunDetay.xlsx
+urunDetay.xlsx
+
+
+Summary: Ürün konfigürasyonu sayfasının oluşturulması
+1.2. Sisteme her ürün için tanımlı bilgiler ilgili veri tabanında bulunmaktadır. *
+
+Summary: Mevcut müşteri adres bilgi sayfasının oluşturulması
+ **2.3.1. Edit butonuna tıklandığında 1. maddenin alt maddelerinde belirtilmiş olan kabul kriterleri geçerli olmalıdır.**
+ 
+ 
+  2.5. Kaydedilen adres, adres bilgi ekranında görüntülenmeli ve "Add New Address" butonu kaldırılmalıdır.
+  Aynı box içinde olacak  @berkay sezgin
+  
+  
+  
+
+Reset Password oluşturulmalı.
+Hangi alanların hangi formatta olduğu ve doldurulma zorunluluğu belirtilmelidir. 
+pop-up kapatabilme özelliği
+Bu alanlar istendi yanlış isterde CRM-3
+
+Layout oluşturulması ve layouta referans verilmeli.
+
+Adresler ekrana sığmadığnda scroll olmalı veya 4 ile sınırlandırılabilr. 
+
+Create billing adres seçim pop-up kapatılması
+Add new Address CRM-16
+
+Login Ekranına Beni Hatırla eklenmesi
+
+Joinli sorgulara bayılıyor ali bey yazın bunları diyor
+
+Bu işlem sonucunda şu şu tablolara sorgu gidecek 
+bu tabloları şu sorgularla giriş yapıldıktan sonra kontrol edebiliriz
+
+Ekranda herhangi bir yere tıklandığında pop-up kapatılmaı
+ shiftte bunlar bunlar oluştu 
+
+
+
+------------
+neye göre ilk on çıkıyor. Eklenme tarihi olabilir.
+Tekerlekle aşağı indirebiliyor. Offer Selection 
+Offer Selection previous butonu
+Varsayılan yazılan yerlere primary address olduğu belirtilmelidir
+Previous lar eklendi
+Clear ile müşteri arama ekranını temizleme
+
+sayfa düzeni için akış diagramları
+
+Bütün Bilgiler github da bulunuyor.
+Date Picker belki gösterilebilir
+Mernis sisteminden çekiliyor olması
+
+Nat ID hanesi sınırlandırılmalı
+
+
+
+------------
+Test plan sprint seviyesinde yazılır
+Test Plan ile başlıyoruz.
+P7 - Sprint 1 Test Plan (Epic ismi) = Summary
+Description;
+Etiya Akademi Pair 7 Sprint 1 Test Plan
+Arzu edilen ifadelere göre doldurulabilir.
+Test plan epic e bağlanmalı
+
+Ardına direkt test girelim
+Create 
+Test Set
+P7 - Sprint 1 Test Set Kullanıcının sisteme giriş yapabilmesi (Epic İsmi)
+
+Ardından Add Test 
+New Test
+UAT seçelim 
+Summary: P7 - Mevcut kullanıcı ile sisteme giriş testi
+Description: Sistemin doğru çalıştığını test etmek için, sisteme var olan kullanıcı ile giriş yapılır.
+create
+
+Add Step denmeli
+New
+Kullanıcı giriş sayfasının açılması : Action
+Data: https://etiya.com/crm-login
+Expected result: Kullanıcının kullanıcı adı ve paralo bilgilerini girecği sayfa açılmalıdır.
+
+istqb
+Exhaustive task is impossible
+sınırlan belirlenmeli
+
+
+bir adet test gözüken alanların gözüküp gözükmediği üstüne olmalı
+
+Parametre de verilebilir.
+
+Farklı hata mesajları için hep test oluşturulmalı.
+
+
+ISTQB - https://www.etestware.com/7-principles-of-testing/
+7 madde var 
+- Testing Shows The Presence of Defects, Not Their Absence
+Hatasız ürün yoktur 
+- Exhaustive Testing is Impossible
+Bütün paramatrelere göre test edilmesi gerekir.
+İyi bir testçi doğru sınırlar ile doğru testleri yapmalıdır. 
+Ex. 18 yaşından küçükler giriş yapamaz. 18 yaştan 1 gün öncesi denenmeli, 17 denenmeli, 18 denenmeli, üstü denenmeli
+- Early Testing Saves Time and Money
+Testler olabildiğince erken yapılmalı
+- Defects Cluster Together
+Hatalar belli bir yerde odaklanır ve bunlar adoğru bir şekilde keşfedilmelidir
+Pareto Principle - Pareto prensibine uygun
+Problemlerin %80 ini kaynakların %20 sinde olur 
+Problemlerin yoğunlaştığı kısımlar keşfedilmeli. Belli başlı yazılımcılar yalapşap yapabilir onlara özellikle dikkat edilmeli ve onlara ayrı vakit ayrılmalı.
+Bir çopk şey test edilmeli o kaynaklara doğru vakit ayrılmalı 
+- Beware of the Pesticide Paradox
+Patlayan testlerin düzenlenmelerin tekrar üstünden geçileceğinden testlerin kayıt edilmesi önemli bir issue olarak kalacaktır
+Test senaryosu ömürlük olacak diye bir şey yoktur.
+- Testing is Context Dependent
+Testler çalıştırıldı. Bir de gerçek sistemde production olmalı ve yazılan senaryolar uygun olmalı.
+- Absence-of-Errors is a Fallacy
+Bir sistmei 100% bug-free olması mümkün olmayacaktır.
+Gereksinim hatalı olabilir ve gereksinim değişebilir. Bu noktada gereksinime göre test senaryoları patlayacaktır. 
+Test gereksinimde yazmayan şeyleri test edemez. 
+Gereksinimde gözükmeyen ve test edilmesi gerektiği düşünüllen tesler analiste söylenmeli ve eklenmesi istenmeli. 
