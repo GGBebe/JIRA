@@ -1,60 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T12:53:11.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qcJ8ldGJ5LZQYwkVFOGr" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T14:13:27.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pvQ3TVw8KRfwAvNQrnNj" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2049" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4780" dy="4201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Vh_eDv6WG60vxoZglGoL-0" value="System" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="-510" width="1670" height="470" as="geometry" />
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-0" value="e" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="-900" width="6940" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-1" value="User" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="-1080" width="1670" height="570" as="geometry" />
+          <mxGeometry x="50" y="-1510" width="6940" height="600" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="-1005" width="30" height="30" as="geometry" />
+          <mxGeometry x="110" y="-1405" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-2" target="Vh_eDv6WG60vxoZglGoL-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="-915" as="targetPoint" />
+            <mxPoint x="125" y="-1315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-5" target="Vh_eDv6WG60vxoZglGoL-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-5" value="User clicks to &quot;Next&quot; button on Credit Check phase" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="-1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="-1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vh_eDv6WG60vxoZglGoL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-13" target="Vh_eDv6WG60vxoZglGoL-23">
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-13" target="Vh_eDv6WG60vxoZglGoL-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-25" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-24">
           <mxGeometry x="0.2453" y="-1" relative="1" as="geometry">
-            <mxPoint x="-10" y="-1" as="offset" />
+            <mxPoint x="-114" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-90" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-13" target="Vh_eDv6WG60vxoZglGoL-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="-1390" />
+              <mxPoint x="630" y="-1320" />
+              <mxPoint x="520" y="-1320" />
+              <mxPoint x="520" y="-1195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-91" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-90">
+          <mxGeometry x="-0.1482" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-13" value="Does the user &lt;br&gt;want to change the &lt;br&gt;billing address?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="-1065" width="150" height="150" as="geometry" />
+          <mxGeometry x="430" y="-1465" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-15" target="Vh_eDv6WG60vxoZglGoL-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-15" value="System opens the Order Summary page" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1409" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="6710" y="-855" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-17" target="Vh_eDv6WG60vxoZglGoL-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-17" value="System, shows Payment Method Selection section" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1624" y="-455" width="30" height="30" as="geometry" />
+          <mxGeometry x="6925" y="-840" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vh_eDv6WG60vxoZglGoL-19" value="Order Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="-1110" width="120" height="30" as="geometry" />
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-19" value="Order Review - Payment Method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="-1540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-23" target="Vh_eDv6WG60vxoZglGoL-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-23" value="User clicks to &quot;Select this billing address&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="976" y="-1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1016" y="-1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-27" target="Vh_eDv6WG60vxoZglGoL-30">
           <mxGeometry relative="1" as="geometry" />
@@ -73,71 +91,71 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-27" value="Does the user &lt;br&gt;want to add a new address?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="-870" width="150" height="150" as="geometry" />
+          <mxGeometry x="760" y="-1270" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-30" target="Vh_eDv6WG60vxoZglGoL-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="-795" />
-              <mxPoint x="1110" y="-390" />
-              <mxPoint x="1036" y="-390" />
+              <mxPoint x="1150" y="-1195" />
+              <mxPoint x="1150" y="-790" />
+              <mxPoint x="1076" y="-790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-30" value="User selects one of the none selected existing addresses" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="976" y="-825" width="120" height="60" as="geometry" />
+          <mxGeometry x="1016" y="-1225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-33" target="Vh_eDv6WG60vxoZglGoL-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1126" y="-340" />
-              <mxPoint x="1126" y="-910" />
-              <mxPoint x="1036" y="-910" />
+              <mxPoint x="1166" y="-740" />
+              <mxPoint x="1166" y="-1310" />
+              <mxPoint x="1076" y="-1310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-33" value="System, shows the selected address with an outline and a check box" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="976" y="-370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1016" y="-770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-35" target="Vh_eDv6WG60vxoZglGoL-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-35" value="User clicks to &quot;Add New Address&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="735" y="-660" width="120" height="60" as="geometry" />
+          <mxGeometry x="775" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-36" target="Vh_eDv6WG60vxoZglGoL-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-36" value="System opens add new address pop-up" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="735" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="775" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-37" target="Vh_eDv6WG60vxoZglGoL-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1036" y="-510" />
-              <mxPoint x="1036" y="-510" />
+              <mxPoint x="1076" y="-910" />
+              <mxPoint x="1076" y="-910" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-37" value="User fills the required areas and clicks to &quot;Save&quot;button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="976" y="-660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1016" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-42" target="Vh_eDv6WG60vxoZglGoL-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="956" y="-440" />
-              <mxPoint x="956" y="-340" />
+              <mxPoint x="996" y="-840" />
+              <mxPoint x="996" y="-740" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-42" value="System closes the pop-up and adds the new address to the address info area as selected" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="976" y="-480" width="120" height="80" as="geometry" />
+          <mxGeometry x="1016" y="-880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-47" target="Vh_eDv6WG60vxoZglGoL-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-47" value="System, shows selected billing address and other existing addresses" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="445" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-48" target="Vh_eDv6WG60vxoZglGoL-49">
           <mxGeometry relative="1" as="geometry" />
@@ -156,31 +174,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-48" value="Does the user &lt;br&gt;have more than 3 registered billing addresses?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="-360" width="150" height="150" as="geometry" />
+          <mxGeometry x="430" y="-760" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-49" target="Vh_eDv6WG60vxoZglGoL-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="-125" />
-              <mxPoint x="360" y="-990" />
+              <mxPoint x="400" y="-525" />
+              <mxPoint x="400" y="-1390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-49" value="System displays &quot;View More&quot; and &quot;Add New Address&quot; buttons on the address info area with existing address informations" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="-160" width="170" height="70" as="geometry" />
+          <mxGeometry x="420" y="-560" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-54" target="Vh_eDv6WG60vxoZglGoL-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665" y="-350" />
-              <mxPoint x="550" y="-350" />
-              <mxPoint x="550" y="-530" />
-              <mxPoint x="465" y="-530" />
+              <mxPoint x="705" y="-750" />
+              <mxPoint x="590" y="-750" />
+              <mxPoint x="590" y="-930" />
+              <mxPoint x="505" y="-930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-54" value="System displays &quot;Add New Address&quot; button on the address info area with existing address informations" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="-320" width="150" height="70" as="geometry" />
+          <mxGeometry x="630" y="-720" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-60" target="Vh_eDv6WG60vxoZglGoL-27">
           <mxGeometry relative="1" as="geometry" />
@@ -199,19 +217,328 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-60" value="If the user has&lt;br&gt;&amp;nbsp;more addresses than &lt;br&gt;are displayed, does the user want &lt;br&gt;to view them?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="-870" width="150" height="150" as="geometry" />
+          <mxGeometry x="540" y="-1270" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-63" target="Vh_eDv6WG60vxoZglGoL-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-63" value="User clicks to &quot;View More&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="-660" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-64" target="Vh_eDv6WG60vxoZglGoL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-64" value="System displays other existing billing addresses" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="-870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-69" target="Vh_eDv6WG60vxoZglGoL-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-69" value="System opens Payment Modals phase&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="-870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-121" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-71" target="Vh_eDv6WG60vxoZglGoL-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-71" value="System displays Billing address info screen with a &quot;Change&quot; hyperlink" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1470" y="-870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-72" target="Vh_eDv6WG60vxoZglGoL-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-72" value="System displays Pre-Authorized Payment Method screen with &quot;Credit Card&quot; and &quot;Bank Account&quot; options" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1780" y="-750" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-74" target="Vh_eDv6WG60vxoZglGoL-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-80" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-79">
+          <mxGeometry x="0.1649" relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-74" target="Vh_eDv6WG60vxoZglGoL-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1860" y="-480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-88" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-87">
+          <mxGeometry x="0.2123" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-74" value="Is there a Due Now amount?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1785" y="-650" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-75" target="Vh_eDv6WG60vxoZglGoL-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2245.57" y="-800" />
+              <mxPoint x="2125.57" y="-800" />
+              <mxPoint x="2125.57" y="-1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-75" value="System displays&amp;nbsp;Pay Now Payment Method screen with &quot;Selected PAP Method&quot; and &quot;Other Method&quot; options" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2145.57" y="-605" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-81" target="Vh_eDv6WG60vxoZglGoL-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2246" y="-1480" />
+              <mxPoint x="1510" y="-1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-94" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-93">
+          <mxGeometry x="-0.2027" y="4" relative="1" as="geometry">
+            <mxPoint x="-67" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-81" target="Vh_eDv6WG60vxoZglGoL-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-98" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-97">
+          <mxGeometry x="0.2432" y="-5" relative="1" as="geometry">
+            <mxPoint x="-23" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-81" value="Does the user&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;want to change the&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;billing address?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2170.57" y="-1465" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-86" target="Vh_eDv6WG60vxoZglGoL-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2375.57" y="-480" />
+              <mxPoint x="2375.57" y="-960" />
+              <mxPoint x="2245.57" y="-960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-86" value="System does not display Pay Now Payment Method screen" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2145.57" y="-510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-92" target="Vh_eDv6WG60vxoZglGoL-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="-1020" />
+              <mxPoint x="1220" y="-1020" />
+              <mxPoint x="1220" y="-460" />
+              <mxPoint x="310" y="-460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-92" value="User clicks to &quot;Change&quot; hyperlink" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="-1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-96" target="Vh_eDv6WG60vxoZglGoL-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-104" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-102">
+          <mxGeometry x="-0.2277" y="-3" relative="1" as="geometry">
+            <mxPoint x="10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-96" target="Vh_eDv6WG60vxoZglGoL-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-105" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-103">
+          <mxGeometry x="0.2" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-96" value="Does the user&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;want to select Credit Card as PAP method?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2525.57" y="-1465" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-108" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-100" target="Vh_eDv6WG60vxoZglGoL-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-100" value="User selects Credit Card as PAP Method" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2540.57" y="-1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-101" value="User selects Bank Account as PAP Method" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2805.57" y="-1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-109" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-106" target="Vh_eDv6WG60vxoZglGoL-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-115" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-109">
+          <mxGeometry x="-0.7329" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-106" target="Vh_eDv6WG60vxoZglGoL-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-116" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-113">
+          <mxGeometry x="-0.2278" y="-1" relative="1" as="geometry">
+            <mxPoint x="14" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-106" value="Does the user&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;have any registered &lt;br&gt;Credit Cards?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2525.57" y="-900" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-107" target="Vh_eDv6WG60vxoZglGoL-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-107" value="System displays each existing Credit Card with its information, a radio button to select and a delete icon to delete the card&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2505.57" y="-720" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-111" target="Vh_eDv6WG60vxoZglGoL-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-111" value="System displays &quot;Add a New Credit Card&quot; button on the screen" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2805.57" y="-855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-127" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-117" target="Vh_eDv6WG60vxoZglGoL-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-128" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-127">
+          <mxGeometry x="0.2008" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-141" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-117" target="Vh_eDv6WG60vxoZglGoL-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2866" y="-1310" />
+              <mxPoint x="3635" y="-1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-142" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-141">
+          <mxGeometry x="0.0479" relative="1" as="geometry">
+            <mxPoint x="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-117" value="Does the user&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;want to add a new &lt;br&gt;credit card?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2790.57" y="-1270" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-119" target="Vh_eDv6WG60vxoZglGoL-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-122" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-120">
+          <mxGeometry x="-0.0903" y="3" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-119" target="Vh_eDv6WG60vxoZglGoL-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="-480" />
+              <mxPoint x="1720" y="-480" />
+              <mxPoint x="1720" y="-575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-124" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-123">
+          <mxGeometry x="-0.2524" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-119" value="Is the flow type &lt;br&gt;requires to select a&amp;nbsp;PAP method according to SP006?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1455" y="-650" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-126" target="Vh_eDv6WG60vxoZglGoL-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-126" value="User clicks to &quot;Add a New Credit&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3100" y="-1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-133" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-130" target="Vh_eDv6WG60vxoZglGoL-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-130" value="System opens Add a New Credit Card screen" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3100" y="-855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-132" target="Vh_eDv6WG60vxoZglGoL-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-132" value="User fills the required areas and clicks &quot;Save&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3340" y="-1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-140" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-134" target="Vh_eDv6WG60vxoZglGoL-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-134" value="System saves the Credit Card and display it as existing card" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3340" y="-855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-136" value="User selects an existing credit card" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3820" y="-1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-138" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-137" target="Vh_eDv6WG60vxoZglGoL-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-139" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-138">
+          <mxGeometry x="0.2874" y="-1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-144" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-137" target="Vh_eDv6WG60vxoZglGoL-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3635" y="-1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-145" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-144">
+          <mxGeometry x="0.0277" y="-1" relative="1" as="geometry">
+            <mxPoint x="64" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-137" value="Does the user&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;want to delete an existing&lt;br&gt;credit card?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3560" y="-1270" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-143" target="Vh_eDv6WG60vxoZglGoL-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-143" value="User clicks to trash can icon next the existing card" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3820" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-146" target="Vh_eDv6WG60vxoZglGoL-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-146" value="System opens an Approval pop-up" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3820" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-151" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-148" target="Vh_eDv6WG60vxoZglGoL-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-148" value="User clicks to &quot;Yes&quot; button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4070" y="-1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-153" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-149" target="Vh_eDv6WG60vxoZglGoL-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-149" value="System closes the Approval pop-up" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4070" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-156" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-152" target="Vh_eDv6WG60vxoZglGoL-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-157" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-156">
+          <mxGeometry x="-0.2516" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-158" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vh_eDv6WG60vxoZglGoL-152" target="Vh_eDv6WG60vxoZglGoL-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-159" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vh_eDv6WG60vxoZglGoL-158">
+          <mxGeometry x="0.1253" y="2" relative="1" as="geometry">
+            <mxPoint x="-5" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-152" value="is the selected card associated with any active billing accounts?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4055" y="-720" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-154" value="System displays an error toaster message&lt;br&gt;&quot;...........&quot;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4330" y="-675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-155" value="System deletes the existing card and displays a toaster message &quot;.........&quot;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4070" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
