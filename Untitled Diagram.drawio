@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T14:13:27.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pvQ3TVw8KRfwAvNQrnNj" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T14:16:05.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wz4nbmdUR0Kh2hH1pG9M" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4780" dy="4201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -539,6 +539,12 @@
         </mxCell>
         <mxCell id="Vh_eDv6WG60vxoZglGoL-155" value="System deletes the existing card and displays a toaster message &quot;.........&quot;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4070" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-161" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1830" y="-1170" width="60" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Vh_eDv6WG60vxoZglGoL-162" value="&lt;span style=&quot;background-color: rgb(255, 3, 3);&quot;&gt;Burası hatalı PAP yoksa seçim &lt;br&gt;yapmayacağı bir flow a girmeli&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1660" y="-1290" width="400" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
