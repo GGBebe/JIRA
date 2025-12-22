@@ -10,7 +10,7 @@
         <mxCell id="hBhxKr5j18O5E4C3uD1c-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-1">
           <mxGeometry width="1110" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="hBhxKr5j18O5E4C3uD1c-3" value="Resource Specification" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-2">
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-3" value="Service Specification" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-2">
           <mxGeometry width="240" height="108" as="geometry">
             <mxRectangle width="240" height="108" as="alternateBounds" />
           </mxGeometry>
