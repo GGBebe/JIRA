@@ -1,9 +1,111 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="gGQFlP28trtUWbt7svXr">
-    <mxGraphModel>
+    <mxGraphModel dx="1678" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="1110" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-1">
+          <mxGeometry width="1110" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-3" value="Resource Specification" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-2">
+          <mxGeometry width="240" height="108" as="geometry">
+            <mxRectangle width="240" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-2">
+          <mxGeometry x="240" width="870" height="108" as="geometry">
+            <mxRectangle width="420" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0" parent="hBhxKr5j18O5E4C3uD1c-2">
+          <mxGeometry x="660" width="450" height="108" as="geometry">
+            <mxRectangle width="450" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-1">
+          <mxGeometry y="108" width="1110" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-7" value="Product Specification" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-6">
+          <mxGeometry width="240" height="107" as="geometry">
+            <mxRectangle width="240" height="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-6">
+          <mxGeometry x="240" width="420" height="107" as="geometry">
+            <mxRectangle width="420" height="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-6">
+          <mxGeometry x="660" width="450" height="107" as="geometry">
+            <mxRectangle width="450" height="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-1">
+          <mxGeometry y="215" width="1110" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-11" value="Product Offer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-10">
+          <mxGeometry width="240" height="315" as="geometry">
+            <mxRectangle width="240" height="315" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-10">
+          <mxGeometry x="240" width="420" height="315" as="geometry">
+            <mxRectangle width="420" height="315" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hBhxKr5j18O5E4C3uD1c-10">
+          <mxGeometry x="660" width="450" height="315" as="geometry">
+            <mxRectangle width="450" height="315" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-14" value="Bundle Service Specification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="850" y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-15" value="Postpaid Mobile Plan Bundle Product Specification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-16" value="Prepaid Mobile Plan Bundle Product Specification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-17" value="100 GB Postpaid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-18" value="50 GB Postpaid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-19" value="100 GB 12 Month Mobile Commitment Bundle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-20" value="100 GB 24 Month Mobile Commitment Bundle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-21" value="Choose Your Own Postpaid Plan 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-22" value="Choose Your Own Postpaid Plan 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-23" value="All Inclusive Prepaid 100 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-24" value="All Inclusive Prepaid 50 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-25" value="All Inclusive Prepaid 20 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-26" value="Pay As You Go Prepaid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-27" value="Mix And Match Prepaid Plan 12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhxKr5j18O5E4C3uD1c-28" value="Mix And Match Prepaid Plan 17" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
