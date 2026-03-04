@@ -1,0 +1,502 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Sayfa-1" id="MxSyq7MiR05oqaCwxnQB">
+    <mxGraphModel dx="3008" dy="3024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ijVGzr1JkW83N-FegHZh-19" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Sistem - EKAP" vertex="1">
+          <mxGeometry height="230" width="1440" x="50" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-17" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Kullanıcı - İdare" vertex="1">
+          <mxGeometry height="130" width="1440" x="50" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-103" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="MERSİS" vertex="1">
+          <mxGeometry height="140" width="1440" x="50" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-4" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="585.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Alt-Süreç 2" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;" value="Nevi Değişikliği Sorgulama -&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);&quot;&gt;Tekliflerin Açılması ve Kontroller&amp;nbsp; /&amp;nbsp; Kaydet ve İlerle&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="430" x="50" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-21" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="100" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-22" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-21" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-28" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-44" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-29" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Sistem - EKAP" vertex="1">
+          <mxGeometry height="130" width="1260" x="50" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-30" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EKAP Giriş" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="2065" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-32" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Kullanıcı - İdare" vertex="1">
+          <mxGeometry height="130" width="1260" x="50" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-33" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı İşlem Yapılacak İdare Seçimini Yapar" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="2065" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-35" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="İşlemlere Devam Et Butonuna tıklanır" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="2065" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" value="Nevi Değişikliği Sorgulama - Sözleşme Öncesi Teyit" vertex="1">
+          <mxGeometry height="30" width="170" x="50" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-38" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="100" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-39" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-38" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="2095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-40" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem Kullanıcıyı İdare Anasayfası&#39;na yönlendirir" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="2185" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Sözleşme İşlemleri&quot; Sekmesinde &quot;Teyit İşlemleri -&amp;gt; Teyit Formu Doldurma&quot; butonuna tıklar" vertex="1">
+          <mxGeometry height="60" width="200" x="750" y="2065" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-47" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="280.03999999999996" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-49" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ijVGzr1JkW83N-FegHZh-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-53" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479.99999999999955" y="715.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-55" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479.99999999999955" y="852.5000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-56" connectable="0" parent="ijVGzr1JkW83N-FegHZh-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hayır" vertex="1">
+          <mxGeometry relative="1" x="0.196" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-58" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527.4999999999995" y="805.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-59" connectable="0" parent="ijVGzr1JkW83N-FegHZh-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Evet" vertex="1">
+          <mxGeometry relative="1" x="-0.0263" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-61" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="749.9999999999995" y="775.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-62" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849.9999999999995" y="685.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-71" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Kaydet ve İlerle&quot; butonuna tıklar" vertex="1">
+          <mxGeometry height="60" width="200" x="385" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nevi Değişiklik sorgulaması yapılır.&lt;div&gt;(&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 31, 31); font-family: system-ui, sans-serif; text-align: start;&quot;&gt;NeviDegisimDevamEdenSorguVarMi)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 31, 31); font-family: system-ui, sans-serif; text-align: start;&quot;&gt;-info mesajı&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="380" y="702.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-105" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ijVGzr1JkW83N-FegHZh-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="762.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-82" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-83" connectable="0" parent="ijVGzr1JkW83N-FegHZh-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Evet" vertex="1">
+          <mxGeometry relative="1" x="-0.2062" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-110" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ijVGzr1JkW83N-FegHZh-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-111" connectable="0" parent="ijVGzr1JkW83N-FegHZh-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hayır" vertex="1">
+          <mxGeometry relative="1" x="0.2104" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-76" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="İsteklilerden herhangi birinde nevi değişikliği&amp;nbsp;&lt;div&gt;var mı?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="105" x="675" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-85" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem otomatik olarak sayfayı yeniler &quot;Nevi Değişiklik Sorgusu yapılmış ve değişiklik saptanmıştır &quot; mesajını gösterir ve istekli altında &quot;Nevi değişikliğini göster&quot; linki görüntüler" vertex="1">
+          <mxGeometry height="60" width="360" x="895" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-88" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Nevi değişikliğini göster&quot; linkine&amp;nbsp;tıklar" vertex="1">
+          <mxGeometry height="60" width="210" x="970" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-90" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem Nevi değişikliklerini listeler" vertex="1">
+          <mxGeometry height="60" width="120" x="1325" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-89" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1370" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-97" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ijVGzr1JkW83N-FegHZh-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1335" y="757.5000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-101" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="880.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-106" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="940" />
+              <mxPoint x="625" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MERSİS verileri ile sorgulama yapılır" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-113" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem bilgileri kaydederek kullanıcıyı 1. Oturum sonu sekmesine yönlendirir ve ekranda &quot;Nevi Değişiklik Sorgusu yapılmış ve değişiklik saptanmamıştır&quot; mesajı gösterilir&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="255" x="835" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-112" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1135" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-139" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Sistem - EKAP" vertex="1">
+          <mxGeometry height="160" width="1200" x="50" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-140" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Kullanıcı - İdare" vertex="1">
+          <mxGeometry height="130" width="1200" x="50" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;" value="E-Teklif Değerlendirme - İhale Arama&amp;nbsp; / Alt-Süreç 1" vertex="1">
+          <mxGeometry height="20" width="280" x="50" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-142" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EKAP Giriş" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-144" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı İşlem Yapılacak İdare Seçimini Yapar" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-146" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="İşlemlere Devam Et Butonuna tıklanır" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-148" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="100" y="-195" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-149" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-148" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-150" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem Kullanıcıyı İdare Anasayfası&#39;na yönlendirir" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-152" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ijVGzr1JkW83N-FegHZh-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Teklif İşlemleri&quot; Sekmesinde &quot;E-Teklif Değerlendirme&quot; butonuna tıklar" vertex="1">
+          <mxGeometry height="60" width="200" x="750" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-154" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem E-Teklif Değerlendirme - İhale arama sayfasını açar" vertex="1">
+          <mxGeometry height="60" width="200" x="750" y="-95" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-156" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ijVGzr1JkW83N-FegHZh-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Ara&quot; butonuna tıklar.&lt;div&gt;(Filtreleme işlemi yapılabilir)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="1010" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem istenilen aramaya uygun bulunan ihale sonuçlarını listeler" vertex="1">
+          <mxGeometry height="60" width="200" x="1010" y="-95" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-159" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Sistem - EKAP" vertex="1">
+          <mxGeometry height="230" width="1440" x="50" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-160" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Kullanıcı - İdare" vertex="1">
+          <mxGeometry height="130" width="1440" x="50" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-161" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="MERSİS" vertex="1">
+          <mxGeometry height="140" width="1440" x="50" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;" value="Nevi Değişikliği Sorgulama -&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);&quot;&gt;Tekliflerin Açılması ve Kontroller&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="330" x="50" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-163" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Sistem - EKAP" vertex="1">
+          <mxGeometry height="200" width="1430" x="50" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-164" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;strokeColor=#6c8ebf;" value="Kullanıcı - İdare" vertex="1">
+          <mxGeometry height="130" width="1430" x="50" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;align=left;" value="E-Teklif Değerlendirme -&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);&quot;&gt;Tekliflerin Açılması ve Kontroller&lt;/span&gt;&amp;nbsp;&amp;nbsp;/ Alt-Süreç 2" vertex="1">
+          <mxGeometry height="20" width="390" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-177" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Alt-Süreç 1" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-179" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="100" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-180" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-179" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-181" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;ihale tekliflere kapalı, teklifler değerlendiriliyor&quot; durumunda bir ihale seçer" vertex="1">
+          <mxGeometry height="60" width="200" x="380" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-183" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-184" connectable="0" parent="ijVGzr1JkW83N-FegHZh-183" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hayır" vertex="1">
+          <mxGeometry relative="1" x="0.196" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-185" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-186" connectable="0" parent="ijVGzr1JkW83N-FegHZh-185" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Evet" vertex="1">
+          <mxGeometry relative="1" x="-0.0263" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-187" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="2. Oturum var mı?" vertex="1">
+          <mxGeometry height="95" width="95" x="432.5" y="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem kullanıcıyı 1. Oturum içerisinde &quot;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tekliflerin Açılması ve Kontroller&quot; sekmesine yönlendirir.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="870" y="362.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-189" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem kullanıcıyı 1. Oturum ve 2. Oturum seçeneklerini sunar" vertex="1">
+          <mxGeometry height="60" width="200" x="650" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-191" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-192" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı 1. Oturum butonuna tıklar" vertex="1">
+          <mxGeometry height="60" width="200" x="650" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-193" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ijVGzr1JkW83N-FegHZh-198" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="393" as="sourcePoint" />
+            <mxPoint x="1180" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-194" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="ijVGzr1JkW83N-FegHZh-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-195" connectable="0" parent="ijVGzr1JkW83N-FegHZh-194" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hayır" vertex="1">
+          <mxGeometry relative="1" x="-0.1384" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-196" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-197" connectable="0" parent="ijVGzr1JkW83N-FegHZh-196" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Evet" vertex="1">
+          <mxGeometry relative="1" x="0.1035" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-198" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="E-Teklifi başarı&amp;nbsp;&lt;div&gt;ile açılan istekli var mı?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102.5" width="115" x="1060" y="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-199" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ijVGzr1JkW83N-FegHZh-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-200" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&quot;Teklifleri Aç&quot; butonunu gösterilir" vertex="1">
+          <mxGeometry height="60" width="210" x="1230" y="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-201" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ijVGzr1JkW83N-FegHZh-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Teklifleri Aç&quot; butonuna tıklar" vertex="1">
+          <mxGeometry height="60" width="200" x="1235" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-203" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem isteklileri ve Teklif tutarlarını listeler. &quot;Kaydet ve İlerle&quot; butonu gösterilir" vertex="1">
+          <mxGeometry height="60" width="200" x="1235" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-208" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-204" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Alt-Süreç 2" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-207" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-205" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="100" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-206" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Nevi Değişikliği Sorgula&quot; butonuna tıklar" vertex="1">
+          <mxGeometry height="60" width="200" x="385" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-212" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-214">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="1190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-214" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nevi Değişiklik sorgulaması yapılır.&lt;div&gt;(&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 31, 31); font-family: system-ui, sans-serif; text-align: start;&quot;&gt;NeviDegisimDevamEdenSorguVarMi)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 31, 31); font-family: system-ui, sans-serif; text-align: start;&quot;&gt;-info mesajı&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="380" y="1277.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-215" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ijVGzr1JkW83N-FegHZh-229">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1337.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-216" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-217" connectable="0" parent="ijVGzr1JkW83N-FegHZh-216" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Evet" vertex="1">
+          <mxGeometry relative="1" x="-0.2062" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-218" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ijVGzr1JkW83N-FegHZh-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-219" connectable="0" parent="ijVGzr1JkW83N-FegHZh-218" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hayır" vertex="1">
+          <mxGeometry relative="1" x="0.2104" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-220" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="İsteklilerden herhangi birinde nevi değişikliği&amp;nbsp;&lt;div&gt;var mı?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="105" x="675" y="1245" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-221" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem otomatik olarak sayfayı yeniler &quot;Nevi Değişiklik Sorgusu yapılmış ve değişiklik saptanmıştır &quot; mesajını gösterir ve istekli altında &quot;Nevi değişikliğini göster&quot; linki görüntüler" vertex="1">
+          <mxGeometry height="60" width="360" x="895" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-223" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-224" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kullanıcı &quot;Nevi değişikliğini göster&quot; linkine&amp;nbsp;tıklar" vertex="1">
+          <mxGeometry height="60" width="210" x="970" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-225" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem Nevi değişikliklerini listeler" vertex="1">
+          <mxGeometry height="60" width="120" x="1325" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-227" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1370" y="1375" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-228" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-220">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="1515" />
+              <mxPoint x="625" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-229" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MERSİS verileri ile sorgulama yapılır" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="1485" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-230" edge="1" parent="1" source="ijVGzr1JkW83N-FegHZh-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ijVGzr1JkW83N-FegHZh-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-231" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistem otomatik olarak sayfayı yeniler ve ekranda &quot;Nevi Değişiklik Sorgusu yapılmış ve değişiklik saptanmamıştır&quot; mesajı gösterilir&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="230" x="835" y="1355" as="geometry" />
+        </mxCell>
+        <mxCell id="ijVGzr1JkW83N-FegHZh-232" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1135" y="1375" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
